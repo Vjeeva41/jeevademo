@@ -1,1 +1,2 @@
 create test.txt file
+ now i learn the git and github
